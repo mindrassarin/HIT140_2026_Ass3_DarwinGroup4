@@ -1,0 +1,9 @@
+Predictor,Standardised coefficient
+Opponent_prior_win_rate,-0.37639539592389987
+Team_prior_win_rate,0.3051355474834257
+Opponent_prior_goals_scored_avg,-0.25513250390470227
+Team_prior_matches,0.2276912604784361
+Opponent_rest_days,0.14105613486696802
+Team_prior_goals_scored_avg,0.1170705492221718
+Team_rest_days,0.11496145234591926
+Opponent_prior_matches,-0.08742455845955688
