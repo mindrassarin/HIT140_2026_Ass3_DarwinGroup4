@@ -1,0 +1,9 @@
+Variable,Coefficient,Absolute_Coefficient
+Team_PreTournament_FIFA_Rank,-0.29528642685524703,0.29528642685524703
+Opponent_PreTournament_FIFA_Rank,0.29072945455658694,0.29072945455658694
+Team_PreMatch_Possession_Avg,0.10747523870274873,0.10747523870274873
+Opponent_PreMatch_GoalsAgainst_PG,0.09462438777791927,0.09462438777791927
+Team_PreMatch_Goals_PG,0.0,0.0
+Team_PreMatch_GoalsAgainst_PG,-0.0,0.0
+Opponent_PreMatch_Points_PG,-0.0,0.0
+Team_PreMatch_Points_PG,0.0,0.0
